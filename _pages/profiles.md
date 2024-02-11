@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /about/
+title: me
+description: members of LAMA
 nav: true
 nav_order: 7
 
