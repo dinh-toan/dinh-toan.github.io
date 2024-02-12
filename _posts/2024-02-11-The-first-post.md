@@ -1,10 +1,9 @@
 ---
 layout: post
 title: the first post
-date: 2024-01-27 00:20:00
+date: 2024-02-11 00:20:00
 categories: sample-posts
-chart:
-  vega_lite: true
+featured: true
 ---
 
 Hello

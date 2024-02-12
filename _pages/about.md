@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bâtiment Copernic </p>
-    <p>5 Boulevard Descartes.</p>
+    <p>Bâtiment Copernic,</p>
+    <p>5 Boulevard Descartes,</p>
     <p>77420 Champs-sur-Marne, France</p>
 
 news: false # includes a list of news items
