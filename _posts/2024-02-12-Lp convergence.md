@@ -7,6 +7,7 @@ featured: true
 ---
 
 Let $$\mathcal{L}$$ be an essentially self-adjoint operator with respect to the $$\sigma$$-finite measure $\mu$ of the measurable space $$(E, \mathcal{F})$$.  By spectral theory, $$\mathcal{L}$$ is uniquely associated with a self-adjoint strongly continuous contraction semigroup $$(P_t)_{t \in \mathbb{R}_+}$$ on $$L^2(E,\mu)$$.
+asdasd
 
 In this note, our goal is to explain the extension this semigroup beyond $$L^2$$ space, focusing on constructing corresponding semigroups $$(P_t)$$ for $$L^p$$ spaces using the interpolation theorem. Additionally, we will examine the exponential convergence rate of $$(P_t)$$ across all $$L^p$$ spaces (for $$p \in [1, \infty]$$ ) under ultracontractivity and the Poincaré inequality. These results are stated as follows:
 
