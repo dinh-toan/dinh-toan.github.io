@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semigroup in L^p, ultra-contractivity, and L^p convergence
+title: Semigroup in \(L^p\), ultra-contractivity, and \(L^p\) convergence
 date: 2024-02-11 00:20:00
 categories: sample-posts
 featured: true
