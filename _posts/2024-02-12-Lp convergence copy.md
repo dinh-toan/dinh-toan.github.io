@@ -12,8 +12,8 @@ asdasd
 In this note, our goal is to explain the extension this semigroup beyond $$L^2$$ space, focusing on constructing corresponding semigroups $$(P_t)$$ for $$L^p$$ spaces using the interpolation theorem. Additionally, we will examine the exponential convergence rate of $$(P_t)$$ across all $$L^p$$ spaces (for $$p \in [1, \infty]$$ ) under ultracontractivity and the Poincaré inequality. These results are stated as follows:
 
 **Proposition** Let $$(P_t)$$ be a self-adjoint contraction semigroup on $$L^2( \mu)$$ that satisfies the submarkov property i.e. $$0 \le P_tf \le 1$$ if $$0 \le f \le 1$$ and $$f \in L^2,t>0$$. Then, there is a unique family of contraction semigroup $$P_t^{(p)}: L^p \rightarrow L^p$$ such that $$P_t^{(p)} \equiv P_t$$ on $$L^1 \cap L^{\infty}$$. i.e.
-+ $$P_t^{(p)} f = P_tf$$ for all $$f \in L^1 \cap L^{\infty}.$$
-+ $$\| P_tf \|_p \le \|f\|_p$$  for all $$p \in [1, \infty[$$, $$f \in L^p$$.
++ $P_t^{(p)} f = P_tf$ for all $$f \in L^1 \cap L^{\infty}.$$
++ $\| P_tf \|_p \le \|f\|_p$  for all $$p \in [1, \infty[$$, $$f \in L^p$$.
 + $$\| P_tf \|_\infty \le \|f\|_\infty$$  for all $$f \in L^\infty\cap L^1$$.
 
 *Remark*:  The main technical issue for $$p= \infty$$ is that $$L^1\cap L^\infty$$ is ,in general, not dense in $$L^\infty$$. Hence, the image of $$L_1\cap L^\infty$$  into $$L^\infty$$ by $$P_t$$ does not uniquely define the mapping $$P_t$$ on $$L^\infty$$.  Nonetheless, when $$\mu$$ is finite, $$L_1\cap L^\infty= L^\infty$$.
